@@ -1,0 +1,112 @@
+commit b36a18c91cde14a26b9b6d127c065a54c47675db
+Merge: f7e2141 bdc3772
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 22:00:02 2023 -0600
+
+    actualizado
+
+commit bdc3772e7f15ce9c330bb67228baa23440cc62a2
+Author: JR-Dev <86381889+RulaxCode@users.noreply.github.com>
+Date:   Wed Mar 8 21:57:18 2023 -0600
+
+    Delete .vscode directory
+
+commit f7e2141b27581d475984b790d5d53a21e330c7b3
+Merge: 690479b b62304f
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 21:41:27 2023 -0600
+
+    actualizando todo
+
+commit 7c4cefc6695396b6ae03f887c30d0d0520f26568
+Merge: 690479b b62304f
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 21:41:27 2023 -0600
+
+    actualizando repo
+
+commit 690479b09e4f2663854a741aaf8f6b1a43738092
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:51:59 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b62304fb61e166d6641572cbe1b6aacf5769bef1
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:51:59 2023 -0600
+
+    aregando las estaciones del año
+
+commit cf4266d5e8da8d79237681c039190f8304dd1fac
+Merge: c787e3b 868ed95
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:46:27 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 868ed95e282002ba164abce4252929f5d0ace44e
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:34:40 2023 -0600
+
+    agregando index.js al index.html
+
+commit c787e3b4dd378b4564d42834210ef905ef0395cd
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:32:49 2023 -0600
+
+    agregando style.css al index.html
+
+commit e88d96f3fe578db83143c00723e085151299906f
+Merge: 77c0913 2d8ffc6
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:21:53 2023 -0600
+
+    Merge branch 'js'
+
+commit 2d8ffc6d430b49da257c432c010e8e77ba701539
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:17:17 2023 -0600
+
+    creando js
+
+commit 77c0913d4d1f9b7ee352c78de6e0643f2f0b9542
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:12:27 2023 -0600
+
+    creando style.css
+
+commit 3784990e08608dc83d681e509810d003173ab43d
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 19:08:18 2023 -0600
+
+    Creando archivo index.html
+
+commit 8e8bd73b6c45e4f4b426f4497044c22cadc00b92
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 18:50:10 2023 -0600
+
+    ignorando archivos .exe
+
+commit fe4772e0797cc29dadffb89736bc804d42b0d3ed
+Author: JR-Dev <86381889+RulaxCode@users.noreply.github.com>
+Date:   Wed Mar 8 18:02:14 2023 -0600
+
+    creando licencia del repositorio
+
+commit 27ecfd2ca133e03308901f22679d6e281cf04e11
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 17:55:00 2023 -0600
+
+    agregando mas contenido al readme
+
+commit d02d9ee4a44d7e202482efc15b4a85996c1f5cdf
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 17:43:26 2023 -0600
+
+    Agregando contenido inicial al readme
+
+commit 18d9fe700b5e027854feccce3f3585216a2484a3
+Author: Raul Reyes <raulrm2012@hotmail.com>
+Date:   Wed Mar 8 17:38:15 2023 -0600
+
+    Primer commit 👌

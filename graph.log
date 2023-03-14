@@ -1,0 +1,37 @@
+*   aa6bd2d Merge remote-tracking branch 'origin'
+|\  
+| *   296eaab actualizacion forzada
+| |\  
+* | \   b36a18c actualizado
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * bdc3772 Delete .vscode directory
+| *   7c4cefc actualizando repo
+| |\  
+* | \   f7e2141 actualizando todo
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * b62304f aregando las estaciones del año
+* | 690479b Agregando estaciones del año con fecha de inicio
+|/  
+*   cf4266d Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 868ed95 agregando index.js al index.html
+* | c787e3b agregando style.css al index.html
+* |   e88d96f Merge branch 'js'
+|\ \  
+| * | 2d8ffc6 creando js
+* | | 77c0913 creando style.css
+| |/  
+|/|   
+* | 3784990 Creando archivo index.html
+|/  
+* 8e8bd73 ignorando archivos .exe
+* fe4772e creando licencia del repositorio
+* 27ecfd2 agregando mas contenido al readme
+* d02d9ee Agregando contenido inicial al readme
+* 18d9fe7 Primer commit 👌
